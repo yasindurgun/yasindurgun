@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">A Software Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.NET Core, React**
+- 🌱 I’m currently learning **.NET Core, Vue.js**
 
 - 💬 Ask me about **C#, .NET**
 
